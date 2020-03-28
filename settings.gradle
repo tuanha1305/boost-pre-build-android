@@ -1,2 +1,3 @@
 rootProject.name='boost-pre-build-android'
 include ':app'
+include ':boost-native'
